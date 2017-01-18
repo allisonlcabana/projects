@@ -1,0 +1,21 @@
+This is my cheat sheet
+pwd = where are you in your directory 
+cd filename = take me to somewhere in the directory
+cd .. = take me one level upwards in the directory
+cd ~ = take me back to the basic home user of the computer (as up as you can go)
+ls = show me a list of what's in the folder 
+touch filename.filetype = create a new file 
+mkdir foldername = make new folder 
+up arrow = show me the last command i did, if you keep going, show all commands i've done 
+echo "words" = speak words back to me  
+echo "words" > filename.txt = it will put "words" into the first line of  a NEW file that it just created as filename.txt - this combines touch and echo, but will overwrite any existing document 
+IF YOU TOUCH/MAKE A NEW FILE THAT HAS THE SAME NAME AS ONE EXISTING, IT WILL OVERWRITE IT. 
+cat filename.text = show me what the text file says 
+rm filename = remove, THIS DELETES YOUR THINGS PERMANENTLY.
+echo "Hello from the command line" | wc -w = word count 
+echo "Hello from the command line" | wc -c = character count 
+[w=word, c=character]
+control c will cancel your command
+clear will clear your whole screen.
+sort = sorting
+your command --help = tell me more about the command (how we did the thing to find out that you can ignore case sensitivity in sorting) 
